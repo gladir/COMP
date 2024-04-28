@@ -10,7 +10,7 @@ Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de compar
   <li>Ajout d'un troisième fichier comme paramètre pouvant servir de résultat de la comparaison.</li>
 </ul>
 
-<h4>Version 1.0</h4>
+<h4>Version 1.0.0</h4>
 <ul>
   <li>Version initiale./li>
 </ul>
