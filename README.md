@@ -73,5 +73,5 @@ COMP fichier1 fichier2 [fichier3] [/A] [/C] [/D] [/L] [/M] [/GUI]
 
 <h4>Version 1.0.0</h4>
 <ul>
-  <li>Version initiale./li>
+  <li>Version initiale.</li>
 </ul>
